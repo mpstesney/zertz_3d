@@ -30,3 +30,4 @@ Assets:
 `/myModels` contains the .egg files for the marble, ring and scene <br>
 `/myModels/tex` contains the textures for the .egg files <br>
 `/myModesl/UI` contains the textures for the GUI <br>
+Note that I could not configure my Panda3D interface to find these files in a directory outside of the Panda3D folders. To successfully run the game, the path for the models and textures may need to be hard coded. When necessary I put the file paths as global variables in each class for easier access.
