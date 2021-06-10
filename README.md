@@ -24,6 +24,7 @@ Data files:
 
 `cellNeighbors.json` Dictionary of each board cell's neighbors listed in order <br>
 `cellPositions.json` Dictionary of each cell's X,Y,Z coordinates
+`rules.txt`
 
 Assets:
 
