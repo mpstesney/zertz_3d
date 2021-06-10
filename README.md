@@ -10,7 +10,7 @@ This project is a 3D implementation of the abstract strategy boardgame Zertz, de
 
 The [Panda3D](https://www.panda3d.org/) module is required
 
-`Zertz3d.py` Run this file <br>
+`zertz3d.py` Run this file <br>
 `board.py` Class to create board and hold all the board state information <br>
 `player.py` Class to create players and store player specific information <br>
 `robot.py` Subclass of player that contains computer player logic <br>
