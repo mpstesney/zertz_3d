@@ -23,7 +23,7 @@ The [Panda3D](https://www.panda3d.org/) module is required
 Data files:
 
 `cellNeighbors.json` Dictionary of each board cell's neighbors listed in order <br>
-`cellPositions.json` Dictionary of each cell's X,Y,Z coordinates
+`cellPositions.json` Dictionary of each cell's X,Y,Z coordinates <br>
 `rules.txt`
 
 Assets:
